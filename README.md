@@ -1,6 +1,6 @@
 # StoreDemandForecast
 
-Respository for Machine Learning project for the course 19CSE305-Machine Learning.
+Repository for Machine Learning project for the course 19CSE305-Machine Learning.
 
 Problem Statement:
 Time Series Analysis and Forecasting model for store items' sales and demand.
